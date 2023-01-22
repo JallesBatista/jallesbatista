@@ -5,7 +5,8 @@ align="top" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/maste
 - 👨‍💻 Sou desenvolvedor Full Stack em formação.
 - 🐍 Estudando Python
 
-![Jalles GitHub stats](https://github-readme-stats.vercel.app/api?username=jallesbatista&show_icons=true&bg_color=DEG,10006E,001287,00337D,0F47BA&title_color=5DFFF5&&text_color=ffffff&icon_color=13D146&&ring_color=00FF83)
+[![Jalles GitHub stats](https://github-readme-stats.vercel.app/api?username=jallesbatista&show_icons=true&bg_color=030314&title_color=ffff&&text_color=5eaaed&icon_color=5eaaed&&ring_color=ffff&hide_border=true)](https://github.com/jallesbatista)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jallesbatista&theme=holi-theme&hide_border=true)](https://git.io/streak-stats)
 
 <h2 align="center">
 Tecnologias que uso e estou aperfeiçoando
