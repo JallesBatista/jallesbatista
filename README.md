@@ -6,20 +6,11 @@ align="top" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/maste
 - 🔎 Estou a procura de vagas Front End, Back End e Full Stack
 - 🐍 Estudando Python
 
-<div align="center">
-
-## Contatos
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jallesbatista/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.jallesbatista@gmail.com)
-
-</div>
-
-<h2 align="center">
-Tecnologias que uso e estou aperfeiçoando
+<h2 style="font-size:1.3rem;" align="center">
+Linguagens e tecnologias
 </h2>
 
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block" align="center">
   <img align="top" style="background-color:transparent;" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -36,7 +27,14 @@ Tecnologias que uso e estou aperfeiçoando
 
 <div align="center">
 
-[![Jalles GitHub stats](https://github-readme-stats.vercel.app/api?username=jallesbatista&show_icons=true&bg_color=030314&title_color=ffff&&text_color=5eaaed&icon_color=5eaaed&&ring_color=ffff&hide_border=true)](https://github.com/jallesbatista)
+[![Jalles GitHub stats](https://github-readme-stats.vercel.app/api?username=jallesbatista&count_private=true&include_all_commits=true&show_icons=true&bg_color=030314&title_color=ffff&&text_color=5eaaed&icon_color=5eaaed&&ring_color=ffff&hide_border=true)](https://github.com/jallesbatista)
 [![GitHub Streak](https://streak-stats.demolab.com?user=jallesbatista&theme=holi-theme&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center"><br>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jallesbatista/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.jallesbatista@gmail.com)
 
 </div>
