@@ -23,14 +23,17 @@ Linguagens e tecnologias
   <img align="center" height="30" width="40" alt="PostGreeSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-</div><br>
+</div>
 
+##
+<br>
 <div align="center">
 
 [![Jalles GitHub stats](https://github-readme-stats.vercel.app/api?username=jallesbatista&count_private=true&include_all_commits=true&show_icons=true&bg_color=030314&title_color=ffff&&text_color=5eaaed&icon_color=5eaaed&&ring_color=ffff&hide_border=true)](https://github.com/jallesbatista)
 [![GitHub Streak](https://streak-stats.demolab.com?user=jallesbatista&theme=holi-theme&hide_border=true)](https://git.io/streak-stats)
-
 </div>
+
+##
 
 <div align="center"><br>
 
