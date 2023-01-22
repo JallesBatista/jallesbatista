@@ -5,8 +5,11 @@ align="top" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/maste
 - 👨‍💻 Sou desenvolvedor Full Stack em formação.
 - 🐍 Estudando Python
 
+<div align="center">
+
 [![Jalles GitHub stats](https://github-readme-stats.vercel.app/api?username=jallesbatista&show_icons=true&bg_color=030314&title_color=ffff&&text_color=5eaaed&icon_color=5eaaed&&ring_color=ffff&hide_border=true)](https://github.com/jallesbatista)
 [![GitHub Streak](https://streak-stats.demolab.com?user=jallesbatista&theme=holi-theme&hide_border=true)](https://git.io/streak-stats)
+</div>
 
 <h2 align="center">
 Tecnologias que uso e estou aperfeiçoando
