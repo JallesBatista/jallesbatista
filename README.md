@@ -5,7 +5,7 @@ align="top" src="https://user-images.githubusercontent.com/106758604/222814797-f
 
 - 👨‍💻 Sou desenvolvedor Full Stack em formação
 - 🔎 Estou a procura de vagas Front End, Back End e Full Stack
-- 🐍 Estudando Python
+- 🐍 Estudando Python e Django
 
 <h2 style="font-size:1.3rem;" align="center">
 Linguagens e tecnologias
