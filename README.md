@@ -1,6 +1,7 @@
-<h1 align="left">Olá! <img
-align="top" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="35px">
+<h1 align="top">Olá! <img style="background-blend-mode: normal"
+align="top" src="https://user-images.githubusercontent.com/106758604/222811754-9b386a3e-2a21-4a71-8f36-d202169610f1.gif" height="42px">
 </h1>
+
 
 - 👨‍💻 Sou desenvolvedor Full Stack em formação
 - 🔎 Estou a procura de vagas Front End, Back End e Full Stack
